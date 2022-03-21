@@ -117,5 +117,5 @@ docker-compose -f docker-compose.yml -f docker-compose.override.yml up -d
 
 ## Authors
 
-* **Kamyab Valipour** - *Initial work* - [mehmetozkaya](https://github.com/kamyab7)
+* **Kamyab Valipour** - *Initial work* - [Kamyab Valipour](https://github.com/kamyab7)
 
